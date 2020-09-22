@@ -58,8 +58,6 @@ a:hover{
     float:left;
     margin-right: 25px;
     height: 10%;
-    display: inline;
-
    }
 
   .Football{
@@ -95,13 +93,12 @@ h1 {
 h3 {
   color: #66bfbf;
 }
+
 .CONTACT{
-  text-align:auto;
-  padding-left: 25%;
+text-align: center;
+color: #66bfbf;
+padding-left: 25%;
 padding-right: 25%;
-	
-	
-	
 }
 
 .Programmer {
@@ -111,12 +108,11 @@ padding-right: 25%;
 }
 
 .pro {
-  text-decoration:underline;
   text-transform: uppercase;
 }
 
 .grammer {
-  
+text-decoration: overline;
 }
 
 
