@@ -1,0 +1,169 @@
+body{
+  color: #4c4c4c;
+  font-family: 'Courier Prime', monospace;
+}
+.TopContainer {
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+p{
+  line-height: 2;
+}
+hr{
+  margin:100px auto 100px auto;
+  border: dotted #EAF6F6 6px;
+  border-bottom: 0;
+  width: 10%;
+}
+.Desc{
+  width: 30%;
+  margin:auto;
+}
+
+.middle-Container {
+  padding: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  margin-top: 50px;
+}
+
+a{
+  color: #11999e;
+  font-family: 'Dancing Script', cursive;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.WebDev-Description{
+  padding-left: 150px;
+}
+
+.FullStack{
+  padding-left: 150px;
+}
+
+.WebDev{
+
+    border-radius: 250px;
+    width: 25%;
+    float:left;
+    margin-right: 25px;
+    height: 10%;
+    display: inline;
+
+   }
+
+  .Football{
+    height: 150px;
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+  }
+
+h2 {
+  font-size: 2.5rem;
+  color: #66bfbf;
+  padding-bottom: 25px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.tecHK {
+  border-radius: 200%;
+  margin-top: 50px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Satisfy', cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+
+h3 {
+  color: #66bfbf;
+}
+
+.Programmer {
+  font-size: 2.5rem;
+  font-family: 'Dancing Script', cursive;
+  font-weight: normal;
+}
+
+.pro {
+  text-decoration:underline;
+  text-transform: uppercase;
+}
+
+.grammer {
+  
+}
+
+
+.bottomCloud {
+  position: absolute;
+  left: 10%;
+  bottom: 40%;
+}
+
+.topCloud {
+  position: absolute;
+  right: 15%;
+  top: 5%;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+}
+.contact-msg{
+  width:40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+	box-shadow: 0 0 0 2 #9fb4f2;
+	background:linear-gradient(to bottom, #11cdd4 5%, #11999E 100%);
+	background-color:#7892c2;
+	border-radius:11px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Courier Prime', monospace;
+	font-size:20px;
+	padding:12px 22px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #283966;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+  top: 1px;
+}
+.Copyright{
+  color: #132743;
+  font-size: 0.75rem;
+  padding: 20 0;
+}
+.footer-link{
+  color: #132743
+}
+.twitter-link{
+  color: #132743
+}
